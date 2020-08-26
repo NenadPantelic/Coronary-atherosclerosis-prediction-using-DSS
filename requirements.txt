@@ -1,0 +1,8 @@
+pandas
+numpy
+imblearn
+sklearn-relief
+Cython
+pymrmr
+sklearn-relief
+seaborn
